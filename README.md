@@ -1,16 +1,9 @@
-# splash_screen
+# 설명
+**웹 뷰 위젯**을 이용해서 만든 **웹 앱**입니다.
 
-A new Flutter project.
+# 주요 기능
+1. 실행하면 **상단의 'Github_Site' 라는 문구의 앱 바**와 함께 밑에 **깃허브 사이트**가 실행된다.
+2. 이때, **상단 앱바의 집 모양 버튼**을 누르면 깃허브 사이트가 **새로고침**된다.
 
-## Getting Started
+# 실행 화면
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
